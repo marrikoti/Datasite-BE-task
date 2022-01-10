@@ -1,5 +1,5 @@
 # Datasite-BE-task
-# springboot-sample-app
+
 
 Minimal [Spring Boot](http://projects.spring.io/spring-boot/) Datasite-BE-task.
 
